@@ -1,0 +1,26 @@
+2023-02-14 19:02:04,885 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:02:05,004 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=FSFESF%2CFE&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 404 40
+2023-02-14 19:02:05,005 - DEBUG - Error getting forecast data: 404 Client Error: Not Found for url: http://api.openweathermap.org/data/2.5/forecast?q=FSFESF%2CFE&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a
+2023-02-14 19:02:05,005 - DEBUG - An error getting the location: 'NoneType' object is not subscriptable
+2023-02-14 19:02:47,947 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:02:48,069 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=FEF%2CEF&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 404 40
+2023-02-14 19:02:48,070 - DEBUG - Error getting forecast data: 404 Client Error: Not Found for url: http://api.openweathermap.org/data/2.5/forecast?q=FEF%2CEF&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a
+2023-02-14 19:02:48,070 - DEBUG - An error getting the location: 'NoneType' object is not subscriptable
+2023-02-14 19:03:44,185 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:03:44,303 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecasts?q=TOKYO%2CJP&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 404 40
+2023-02-14 19:03:44,304 - DEBUG - Error getting forecast data: 404 Client Error: Not Found for url: http://api.openweathermap.org/data/2.5/forecasts?q=TOKYO%2CJP&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a
+2023-02-14 19:03:44,304 - DEBUG - An error getting the location: 'NoneType' object is not subscriptable
+2023-02-14 19:07:23,997 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:07:24,387 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=TOKYO%2CJP&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 200 15833
+2023-02-14 19:08:23,251 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:08:23,378 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=TOKYO%2CJP&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 200 15833
+2023-02-14 19:08:50,731 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:08:50,851 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=MINNEAPOLIS%2CUS&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 200 15931
+2023-02-14 19:09:13,283 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:09:13,469 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=TOKYO%2CJP&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 200 15833
+2023-02-14 19:09:26,887 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:09:27,025 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=TOKYO%2CJP&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 200 15833
+2023-02-14 19:10:12,395 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:10:12,541 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=TOKYO%2CJP&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 200 15833
+2023-02-14 19:19:00,130 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2023-02-14 19:19:00,256 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=MINNEAPOLIS%2CUS&units=imperial&appid=a4384a8fae04ffee4382984f5e28507a HTTP/1.1" 200 15931
